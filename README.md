@@ -1,5 +1,5 @@
 👋 Hi, I'm Mantan Dela Dobdinga!
-🎓 B.Sc. Applied Computer Technology student at United States International University – Africa, in Nairobi, Kenya 
+🎓 B.Sc. Applied Computer Technology student at United States International University – Africa, in Nairobi, Kenya. 
 A MasterCard Foundation Scholar passionate about technology, leadership, and making an impact through innovative solutions.
 💡 Currently pursuing a mix of personal projects, academic learning, and leadership training such as:
 IBM AI Fundamentals course to build my AI skills and  Aspire Leaders Program to enhance my leadership and relational skills.
