@@ -2,7 +2,7 @@
 🎓 B.Sc. Applied Computer Technology student at United States International University – Africa, Nairobi, Kenya.
 A MasterCard Foundation Scholar passionate about technology, leadership, and building solutions that create real impact across Africa.
 
-I'm currently pursuing a mix of technical projects, community action projects, academic learning, and leadership training — always at the intersection of engineering and impact.
+I'm currently pursuing a mix of technical projects, community action projects, academic learning, and leadership training, with key focus on the intersection of engineering and impact.
 
 I'm also building Mojaly, a non-custodial cross-border payment routing platform designed to help African fintechs move money more freely, showcased at the Interledger Foundation Open Payments Hackathon 2026. I'm also currently serving as a Peer Coach, supporting fellow students on their own journeys.
 
