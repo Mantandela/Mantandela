@@ -1,9 +1,11 @@
 👋 Hi, I'm Mantan Dela Dobdinga!
-🎓 B.Sc. Applied Computer Technology student at United States International University – Africa, in Nairobi, Kenya. 
-A MasterCard Foundation Scholar passionate about technology, leadership, and making an impact through innovative solutions.
-💡 Currently pursuing a mix of personal projects, academic learning, and leadership training such as:
-IBM AI Fundamentals course to build my AI skills and  Aspire Leaders Program to enhance my leadership and relational skills.
-Leading a community project focused on recycling, upcycling, and entrepreneurship as part of my Transformative Leadership Training.
-🌱 I’m in my final semester of my second year, gearing up for my pre-introductory internship to dive into the professional tech space. 
-Always curious about emerging technologies, digital solutions, and how they can drive social change.
-📫 Let’s connect and collaborate! Reach me via email at mantandela50@gmail.com or follow my journey here.
+🎓 B.Sc. Applied Computer Technology student at United States International University – Africa, Nairobi, Kenya.
+A MasterCard Foundation Scholar passionate about technology, leadership, and building solutions that create real impact across Africa.
+
+I'm currently pursuing a mix of technical projects, community action projects, academic learning, and leadership training — always at the intersection of engineering and impact.
+
+I'm also building Mojaly, a non-custodial cross-border payment routing platform designed to help African fintechs move money more freely, showcased at the Interledger Foundation Open Payments Hackathon 2026. I'm also currently serving as a Peer Coach, supporting fellow students on their own journeys.
+
+As a final year (4th year) student, I'm preparing for my senior year internship, with a vision to lead tech teams through strong project management, product design, and system architecture.
+
+Let's connect! mantandela50@gmail.com
